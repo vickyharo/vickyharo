@@ -7,14 +7,8 @@
         y software que las personas encuentren útiles. </p>
     <p align="center" style="color:rgb(216, 78, 216)"> Sigueme en mis redes sociales para poder ser amigos.</p>
     <p align="center">
-        <a href="https://discord.gg/4FM4RE2p" target="_blank">         
-         <img src ="https://user-images.githubusercontent.com/7103516/227753854-416b92ce-a203-4474-9454-72a7fefe8221.svg" >
-        </a>
         <a href="https://www.linkedin.com/in/victoriaharohuanaco/" style="text-decoration:none" target="_blank">
 <img src ="https://user-images.githubusercontent.com/7103516/227753857-dfe3d341-ac02-4684-a8b1-d9eda04fa9d6.svg"
-        </a>
-        <a href="https://github.com/vickyharo" style="text-decoration:none" target="_blank">
-            <img src ="https://user-images.githubusercontent.com/7103516/227753852-6b38c8f0-cfe4-45f2-b5fc-209d4495d386.svg"
         </a>
         <a href="https://www.instagram.com/soy_vicky_haro/" style="text-decoration:none" target="_blank">
           <img src ="https://user-images.githubusercontent.com/7103516/227753849-32c23cd0-9f7e-4306-aa14-6144a4ec4819.svg"
