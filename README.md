@@ -10,17 +10,8 @@
         <a href="https://discord.gg/4FM4RE2p" target="_blank">         
          <img src ="https://user-images.githubusercontent.com/7103516/227753854-416b92ce-a203-4474-9454-72a7fefe8221.svg" >
         </a>
-        <a href="https://www.twitch.tv/astridgiggles" style="text-decoration:none" target="_blank">      
-<img src ="https://user-images.githubusercontent.com/7103516/227753859-5398787a-cf3e-4643-b278-49abb1d33476.svg">
-        </a>
-        <a href="https://www.youtube.com/@VickyHaro-AstridGiggles" style="text-decoration:none" target="_blank">            
-<img src ="https://user-images.githubusercontent.com/7103516/227753858-ad734bac-7f7f-4308-86ea-3ef32a1ca7b4.svg">
-        </a>
         <a href="https://www.linkedin.com/in/victoriaharohuanaco/" style="text-decoration:none" target="_blank">
 <img src ="https://user-images.githubusercontent.com/7103516/227753857-dfe3d341-ac02-4684-a8b1-d9eda04fa9d6.svg"
-        </a>
-        <a href="https://twitter.com/soy_vicky_haro" style="text-decoration:none" target="_blank">     
-<img src ="https://user-images.githubusercontent.com/7103516/227753853-14be5316-0700-4710-8084-ec329ed34aae.svg"
         </a>
         <a href="https://github.com/vickyharo" style="text-decoration:none" target="_blank">
             <img src ="https://user-images.githubusercontent.com/7103516/227753852-6b38c8f0-cfe4-45f2-b5fc-209d4495d386.svg"
@@ -42,7 +33,7 @@
             Me gusta aprender nuevas tecnologias, autodidacta</li>
         <li><g-emoji class="g-emoji" alias="mortar_board"
                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>¡Tengo
-            mas de 5 años de experiencia practicando programación y siempre estoy aprendiendo y
+            mas de 8 años de experiencia practicando programación y siempre estoy aprendiendo y
             mejorando!</li>
         <li>🌱 Actualmente estoy estudiando Angular, Vue.js y React </li>
     </ul>
