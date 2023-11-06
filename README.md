@@ -2,10 +2,11 @@
     <img src="https://media3.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e4738lt8r5c5ilkru7wjdmzec96bviilk7syq6dj0k8&rid=giphy.gif"
         width="200" />
     </br>
-    <h2 align="center" style="color:rgb(216, 78, 216)"> Hola 👋, Soy Vicky </h2>
-    <p align="center" style="color:rgb(216, 78, 216)"> Programadora de Jalisco,México. Mi objetivo es crear sitios web
-        y software que las personas encuentren útiles. </p>
-    <p align="center" style="color:rgb(216, 78, 216)"> Sigueme en mis redes sociales para poder ser amigos.</p>
+    <h2 align="center" style="color:rgb(255, 87, 51)">Hola 👋, Soy Vicky <b>|</b> Hi 👋, I am Vicky </h2>
+    <p align="center" style="color:rgb(216, 78, 216)"><b>|</b> Programadora de Jalisco,México. Mi objetivo es crear sitios web
+        y software que las personas encuentren útiles. <br> <b>|</b> Programmer from Jalisco, Mexico. My goal is to create websites and software that people find useful. </p>
+    <p align="center" style="color:rgb(216, 78, 216)">  </p>
+    <p align="center" style="color:rgb(216, 78, 216)"> Sigueme en mis redes sociales para poder ser amigos. <b>|</b> Follow me on my social networks so we can be friends.</p>
     <p align="center">
         <a href="https://www.linkedin.com/in/victoriaharohuanaco/" style="text-decoration:none" target="_blank">
 <img src ="https://user-images.githubusercontent.com/7103516/227753857-dfe3d341-ac02-4684-a8b1-d9eda04fa9d6.svg"
@@ -16,20 +17,20 @@
     </p>
     <h2 style="color:rgb(216, 78, 216)"><g-emoji class="g-emoji" alias="book"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji>
-        Acerca de mi</h2>
+        Acerca de mi | About Me</h2>
     <p>
-    <ul style="color:rgb(216, 78, 216);list-style-type: none">
+    <ul style="list-style: none">
         <li><g-emoji class="g-emoji" alias="computer"
                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
-            Soy desarrolladora web</li>
+            Soy desarrolladora web | I am Web Developer</li>
         <li><g-emoji class="g-emoji" alias="art"
                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji>
-            Me gusta aprender nuevas tecnologias, autodidacta</li>
+            Me gusta aprender nuevas tecnologias, autodidacta | I like to learn new technologies, self-taught</li>
         <li><g-emoji class="g-emoji" alias="mortar_board"
                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>¡Tengo
             mas de 8 años de experiencia practicando programación y siempre estoy aprendiendo y
-            mejorando!</li>
-        <li>🌱 Actualmente estoy estudiando Angular, Vue.js y React </li>
+            mejorando! | I have more than 8 years of experience practicing programming and I am always learning and improving!</li>
+        <li>🌱 Actualmente estoy estudiando Angular, Vue.js y React | I am currently studying Angular, Vue.js and React</li>
     </ul>
     </p>
     <h3 dir="auto" style="color:rgb(216, 78, 216)"><a id="user-content--programming-and-markup-languages" class="anchor"
@@ -40,7 +41,7 @@
                 </path>
             </svg></a><g-emoji class="g-emoji" alias="man_technologist"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji>
-        Lenguajes de programación</h3>
+        Lenguajes de programación | Programming languages</h3>
     <p dir="auto">
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#"
                 src="https://camo.githubusercontent.com/c13d1b8966eaf8426913512362717201d5169615236c889db83572358b97f5f7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432532332d3638323137412e7376673f6c6f676f3d637332266c6f676f436f6c6f723d7768697465"
